@@ -3,5 +3,5 @@
 *.jar 
 *.war 
 *.ear 
-.nar 
+.nar
 hs_err_pid
